@@ -1,0 +1,20 @@
+header{
+    background: rgb(11,11,11);
+    background: linear-gradient(90deg, rgba(11,11,11,1) 0%, rgba(25,23,21,1) 33%, rgba(38,36,30,1) 71%, rgba(0,0,0,1) 100%);
+    height: 5.5rem;
+}
+
+body{
+    background: rgb(11,11,11);
+    background: linear-gradient(90deg, rgba(11,11,11,1) 0%, rgba(25,23,21,1) 33%, rgba(38,36,30,1) 71%, rgba(0,0,0,1) 100%);
+}
+
+header.img{
+    position: absolute;
+}
+
+.btn-dark{
+    background: rgb(34,33,33);
+    background: linear-gradient(90deg, rgba(34,33,33,1) 0%, rgba(31,28,26,1) 33%, rgba(34,33,27,1) 71%, rgba(29,28,28,1) 100%);
+    border-color: rgb(45, 43, 43);
+}
